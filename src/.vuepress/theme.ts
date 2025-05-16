@@ -46,7 +46,7 @@ export default hopeTheme({
   },
 
   // 页面信息
-  pageInfo: ["Author", "Original",  "Category", "Tag", "ReadingTime"],
+  pageInfo: ["Date", "Category", "Tag","Word"],
 
 
 
