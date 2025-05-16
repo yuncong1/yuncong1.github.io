@@ -45,6 +45,11 @@ export default hopeTheme({
     },
   },
 
+  // 页面信息
+  pageInfo: ["Author", "Original",  "Category", "Tag", "ReadingTime"],
+
+
+
   // 加密配置
   encrypt: {
     config: {

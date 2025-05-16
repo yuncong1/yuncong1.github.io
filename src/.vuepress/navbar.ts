@@ -7,7 +7,7 @@ export default navbar([
     link: "/catalog.md",
   },
   {
-    text: "主要功能",
+    text: "使用示例",
     link: "/demo/",
     activeMatch: "^/demo",
   },
