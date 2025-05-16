@@ -1,1 +1,1 @@
-npm run docs:clean-dev
+pnpm docs:clean-dev

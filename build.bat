@@ -1,1 +1,1 @@
-npm run docs:build
+pnpm docs:build
